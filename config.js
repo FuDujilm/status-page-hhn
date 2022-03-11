@@ -34,11 +34,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '回到主页',
+      text: '回到博客',
       url: 'https://blog.oldcat.co/'
     },
     {
-      text: '回到博客',
+      text: '回到主页',
       url: 'https://oldcat.co'
     }
   ]
