@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'H.H.N. Public Page',
+  SiteName: 'H.H.N. Public Status',
 
   // 站点链接
   SiteUrl: '/',
