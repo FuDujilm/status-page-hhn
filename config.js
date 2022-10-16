@@ -2,10 +2,10 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'H.H.N. Public Status',
+  SiteName: 'Public Status',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'status.hhnlab.cn'
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
@@ -34,12 +34,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '回到博客',
-      url: 'https://blog.oldcat.co/'
+      text: '博客',
+      url: 'https://zblog.hhnlab.cn'
     },
     {
-      text: '回到主页',
-      url: 'https://oldcat.co'
+      text: '主页',
+      url: 'https://hhnlab.cn'
     }
   ]
 };
